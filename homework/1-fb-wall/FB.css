@@ -1,0 +1,10 @@
+#wall
+{
+  border: 1px solid black;
+  height:500px;
+  width: 700px;
+  margin: 0px auto;
+  overflow: auto;
+}
+
+
