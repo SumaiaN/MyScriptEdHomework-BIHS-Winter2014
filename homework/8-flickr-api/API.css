@@ -1,0 +1,22 @@
+#result
+{
+ 
+  height:1000px;
+  width: 1200px;
+  margin: 20px auto;
+  overflow: auto;
+   border-style:dotted;
+border-width:10px;	
+border-color:blue;
+}
+
+#box
+{
+    border: 5px  yellow;
+    border-image: url('http://www.wpclipart.com/page_frames/floral/daisy_border.png');
+}
+#search
+{
+    border: 1px   purple ;
+     border-image: url('http://www.clipartbest.com/cliparts/LTK/eAy/LTKeAyBrc.png');
+}
